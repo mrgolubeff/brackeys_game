@@ -102,7 +102,7 @@ radius = 4.0
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 sprite_frames = SubResource("SpriteFrames_d34tm")
 autoplay = "default"
-frame_progress = 0.36754
+frame_progress = 0.663929
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource("CircleShape2D_wd3uh")
